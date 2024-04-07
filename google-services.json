@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977050016890",
+    "project_id": "gameee-4ec6b",
+    "storage_bucket": "gameee-4ec6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977050016890:android:fe64c0957782adf8f9efc3",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4zVqt0e_PYf_BSxy2A6s66Y93hvRAPZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
